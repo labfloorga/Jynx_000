@@ -11,6 +11,7 @@ public class Main {
 		int b = 3;
 		int c = 1;
 		c = a + b;
+		int d = a*c;
 		System.out.println("resultat : " + c);
 	}
 
