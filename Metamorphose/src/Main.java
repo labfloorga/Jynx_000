@@ -7,8 +7,8 @@ public class Main {
 		System.out.println("ffff");
 		System.out.println("coucou");
 
-     int a = 1 ; 
- branch 'master' of https://github.com/labfloorga/Jynx_000.git
+		int a = 1;
+		int b = 3;
 	}
 
 }
