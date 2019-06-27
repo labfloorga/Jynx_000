@@ -9,7 +9,9 @@ public class Main {
 
 		int a = 1;
 		int b = 3;
-		
+		int c = 1;
+		c = a + b;
+		System.out.println("resultat : " + c);
 	}
 
 }
