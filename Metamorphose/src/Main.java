@@ -12,7 +12,11 @@ public class Main {
 		int c = 1;
 		c = a + b;
 		int d = a*c;
+		
+		String leString ="LESTRING";
 		System.out.println("resultat : " + c);
+		System.out.println("resultat : " + leString);
+		
 	}
 
 }
